@@ -1,0 +1,15 @@
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\bin\Debug\net7.0\PatikaProject.exe
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\bin\Debug\net7.0\PatikaProject.deps.json
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\bin\Debug\net7.0\PatikaProject.runtimeconfig.json
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\bin\Debug\net7.0\PatikaProject.dll
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\bin\Debug\net7.0\PatikaProject.pdb
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.csproj.AssemblyReference.cache
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.AssemblyInfoInputs.cache
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.AssemblyInfo.cs
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.csproj.CoreCompileInputs.cache
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.dll
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\refint\PatikaProject.dll
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.pdb
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\PatikaProject.genruntimeconfig.cache
+C:\Users\Mikdat Kerem\source\repos\PatikaProject\PatikaProject\obj\Debug\net7.0\ref\PatikaProject.dll
