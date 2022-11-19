@@ -1,3 +1,3 @@
-# www.patika.dev
+# Patika Projects
 
-www.patika.dev
+
